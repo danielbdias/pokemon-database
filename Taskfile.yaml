@@ -1,0 +1,15 @@
+version: "3"
+
+vars:
+  PYTEST_ARGS: ""
+
+tasks:
+  convert-to-parquet:
+    desc: "Convert the data to Parquet"
+    cmds:
+      - uv run python ./transformation/convert_data_into_parquet.py
+
+  clean:
+    desc: "Clean the data"
+    cmds:
+      - rm -rf data/parquet/*
