@@ -1142,7 +1142,7 @@ nidoran-m:
     species: Poison Pin
     height: 0.5
     weight: 9
-    gender: 0
+    gender: "0"
     catch-rate: 235
     base-exp: 55
     egg-cycles: 20
@@ -1168,7 +1168,7 @@ nidorino:
     species: Poison Pin
     height: 0.9
     weight: 19.5
-    gender: 0
+    gender: "0"
     catch-rate: 120
     base-exp: 128
     egg-cycles: 20
@@ -1194,7 +1194,7 @@ nidoking:
     species: Drill
     height: 1.4
     weight: 62
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 227
     egg-cycles: 20
@@ -3747,7 +3747,7 @@ hitmonlee:
     species: Kicking
     height: 1.5
     weight: 49.8
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 159
     egg-cycles: 25
@@ -3773,7 +3773,7 @@ hitmonchan:
     species: Punching
     height: 1.4
     weight: 50.2
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 159
     egg-cycles: 25
@@ -4424,7 +4424,7 @@ tauros:
     species: Wild Bull
     height: 1.4
     weight: 88.4
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 172
     egg-cycles: 20
@@ -4451,7 +4451,7 @@ tauros-paldean-combat:
     species: Wild Bull
     height: 1.4
     weight: 115
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 172
     egg-cycles: 20
@@ -4477,7 +4477,7 @@ tauros-paldean-blaze:
     species: Wild Bull
     height: 1.4
     weight: 85
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 172
     egg-cycles: 20
@@ -4503,7 +4503,7 @@ tauros-paldean-aqua:
     species: Wild Bull
     height: 1.4
     weight: 110
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 172
     egg-cycles: 20
@@ -7819,7 +7819,7 @@ tyrogue:
     species: Scuffle
     height: 0.7
     weight: 21
-    gender: 0
+    gender: "0"
     catch-rate: 75
     base-exp: 42
     egg-cycles: 25
@@ -7845,7 +7845,7 @@ hitmontop:
     species: Handstand
     height: 1.4
     weight: 48
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 159
     egg-cycles: 25
@@ -10143,7 +10143,7 @@ volbeat:
     species: Firefly
     height: 0.7
     weight: 17.7
-    gender: 0
+    gender: "0"
     catch-rate: 150
     base-exp: 151
     egg-cycles: 15
@@ -12234,7 +12234,7 @@ latios:
     species: Eon
     height: 2
     weight: 60
-    gender: 0
+    gender: "0"
     catch-rate: 3
     base-exp: 270
     egg-cycles: 120
@@ -12260,7 +12260,7 @@ latios-mega:
     species: Eon
     height: 2.3
     weight: 70
-    gender: 0
+    gender: "0"
     catch-rate: 3
     base-exp: 315
     egg-cycles: 120
@@ -13390,7 +13390,7 @@ mothim:
     species: Moth
     height: 0.9
     weight: 23.3
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 148
     egg-cycles: 15
@@ -15091,7 +15091,7 @@ gallade:
     species: Blade
     height: 1.6
     weight: 52
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 259
     egg-cycles: 20
@@ -15117,7 +15117,7 @@ gallade-mega:
     species: Blade
     height: 1.6
     weight: 56.4
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 278
     egg-cycles: 20
@@ -17055,7 +17055,7 @@ throh:
     species: Judo
     height: 1.3
     weight: 55.5
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 163
     egg-cycles: 20
@@ -17081,7 +17081,7 @@ sawk:
     species: Karate
     height: 1.4
     weight: 51
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 163
     egg-cycles: 20
@@ -19657,7 +19657,7 @@ rufflet:
     species: Eaglet
     height: 0.5
     weight: 10.5
-    gender: 0
+    gender: "0"
     catch-rate: 190
     base-exp: 70
     egg-cycles: 20
@@ -19683,7 +19683,7 @@ braviary:
     species: Valiant
     height: 1.5
     weight: 41
-    gender: 0
+    gender: "0"
     catch-rate: 60
     base-exp: 179
     egg-cycles: 20
@@ -19709,7 +19709,7 @@ braviary-hisuian:
     species: Battle Cry
     height: 1.7
     weight: 43.4
-    gender: 0
+    gender: "0"
     catch-rate: 60
     base-exp: 179
     egg-cycles: 20
@@ -20047,7 +20047,7 @@ tornadus-incarnate:
     species: Cyclone
     height: 1.5
     weight: 63
-    gender: 0
+    gender: "0"
     catch-rate: 3
     base-exp: 290
     egg-cycles: 120
@@ -20073,7 +20073,7 @@ tornadus-therian:
     species: Cyclone
     height: 1.4
     weight: 63
-    gender: 0
+    gender: "0"
     catch-rate: 3
     base-exp: 290
     egg-cycles: 120
@@ -20099,7 +20099,7 @@ thundurus-incarnate:
     species: Bolt Strike
     height: 1.5
     weight: 61
-    gender: 0
+    gender: "0"
     catch-rate: 3
     base-exp: 290
     egg-cycles: 120
@@ -20125,7 +20125,7 @@ thundurus-therian:
     species: Bolt Strike
     height: 3
     weight: 61
-    gender: 0
+    gender: "0"
     catch-rate: 3
     base-exp: 290
     egg-cycles: 120
@@ -20203,7 +20203,7 @@ landorus-incarnate:
     species: Abundance
     height: 1.5
     weight: 68
-    gender: 0
+    gender: "0"
     catch-rate: 3
     base-exp: 300
     egg-cycles: 120
@@ -20229,7 +20229,7 @@ landorus-therian:
     species: Abundance
     height: 1.3
     weight: 68
-    gender: 0
+    gender: "0"
     catch-rate: 3
     base-exp: 300
     egg-cycles: 120
@@ -20705,7 +20705,7 @@ greninja-ash:
     species: Ninja
     height: 1.5
     weight: 40
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 265
     egg-cycles: 20
@@ -21227,7 +21227,7 @@ meowstic-male:
     species: Constraint
     height: 0.6
     weight: 8.5
-    gender: 0
+    gender: "0"
     catch-rate: 75
     base-exp: 163
     egg-cycles: 20
@@ -22541,7 +22541,7 @@ yveltal:
         hp: 3
 zygarde-50:
     pokemonid: zygarde
-    formid: 50
+    formid: "50"
     formname: 50% Forme
     gen: 6
     release: x-y
@@ -22567,7 +22567,7 @@ zygarde-50:
         hp: 3
 zygarde-10:
     pokemonid: zygarde
-    formid: 10
+    formid: "10"
     formname: 10% Forme
     gen: 7
     release: sun-moon
@@ -26678,7 +26678,7 @@ impidimp:
     species: Wily
     height: 0.4
     weight: 5.5
-    gender: 0
+    gender: "0"
     catch-rate: 255
     base-exp: 53
     egg-cycles: 20
@@ -26704,7 +26704,7 @@ morgrem:
     species: Devious
     height: 0.8
     weight: 12.5
-    gender: 0
+    gender: "0"
     catch-rate: 120
     base-exp: 130
     egg-cycles: 20
@@ -26730,7 +26730,7 @@ grimmsnarl:
     species: Bulk Up
     height: 1.5
     weight: 61
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 255
     egg-cycles: 20
@@ -27147,7 +27147,7 @@ indeedee-male:
     species: Emotion
     height: 0.9
     weight: 28
-    gender: 0
+    gender: "0"
     catch-rate: 30
     base-exp: 166
     egg-cycles: 40
@@ -28032,7 +28032,7 @@ ursaluna-bloodmoon:
     species: Peat
     height: 2.7
     weight: 333
-    gender: 0
+    gender: "0"
     catch-rate: 5
     base-exp:
     egg-cycles:
@@ -28058,7 +28058,7 @@ basculegion-male:
     species: Big Fish
     height: 3
     weight: 110
-    gender: 0
+    gender: "0"
     catch-rate: 45
     base-exp: 265
     egg-cycles: 20
@@ -28474,7 +28474,7 @@ oinkologne-male:
     species: Hog
     height: 1
     weight: 120
-    gender: 0
+    gender: "0"
     catch-rate: 100
     base-exp: 171
     egg-cycles: 15
@@ -31284,7 +31284,7 @@ okidogi:
     species: Retainer
     height: 1.8
     weight: 92
-    gender: 0
+    gender: "0"
     catch-rate: 3
     base-exp:
     egg-cycles:
@@ -31310,7 +31310,7 @@ munkidori:
     species: Retainer
     height: 1
     weight: 12.2
-    gender: 0
+    gender: "0"
     catch-rate: 3
     base-exp:
     egg-cycles:
@@ -31336,7 +31336,7 @@ fezandipiti:
     species: Retainer
     height: 1.4
     weight: 30.1
-    gender: 0
+    gender: "0"
     catch-rate: 3
     base-exp:
     egg-cycles:
