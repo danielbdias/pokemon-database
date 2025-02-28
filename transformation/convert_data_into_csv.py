@@ -23,7 +23,7 @@ for file in files:
     print(df.head(2))
     print()
     
-    df.to_csv(f'data/csv/{file_name}.csv')
+    df.to_csv(f'data/csv/{file_name}.csv', header=False)
     
     print(f"Finished processing {file}.")
     print(f"Saved to data/csv/{file_name}.csv")
