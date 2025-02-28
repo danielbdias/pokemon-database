@@ -9,21 +9,21 @@ tasks:
     aliases:
       - parquet
     cmds:
-      - uv run python ./transformation/convert_data_into_parquet.py
+      - uv run python ./scripts/convert/convert_data_into_parquet.py
 
   convert-to-csv:
     desc: "Convert the data to CSV"
     aliases:
       - csv
     cmds:
-      - uv run python ./transformation/convert_data_into_csv.py
+      - uv run python ./scripts/convert/convert_data_into_csv.py
 
   convert-to-json:
     desc: "Convert the data to JSON"
     aliases:
       - json
     cmds:
-      - uv run python ./transformation/convert_data_into_json.py
+      - uv run python ./scripts/convert/convert_data_into_json.py
 
   clean:
     desc: "Clean the data"
