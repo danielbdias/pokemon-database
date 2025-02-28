@@ -1,6 +1,7 @@
 # Data (generated)
 data/parquet/*.parquet
 data/csv/*.csv
+data/json/*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

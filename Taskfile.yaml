@@ -17,7 +17,14 @@ tasks:
       - csv
     cmds:
       - uv run python ./transformation/convert_data_into_csv.py
-      
+
+  convert-to-json:
+    desc: "Convert the data to JSON"
+    aliases:
+      - json
+    cmds:
+      - uv run python ./transformation/convert_data_into_json.py
+
   clean:
     desc: "Clean the data"
     aliases:
@@ -25,3 +32,5 @@ tasks:
       - clear
     cmds:
       - rm -rf data/parquet/*
+      - rm -rf data/csv/*
+      - rm -rf data/json/*
