@@ -23,8 +23,8 @@ for file in files:
     print(df.head(2))
     print()
     
-    df.to_parquet(f'data/parquet/{file_name}.parquet')
+    df.to_csv(f'data/csv/{file_name}.csv')
     
     print(f"Finished processing {file}.")
-    print(f"Saved to data/parquet/{file_name}.parquet")
+    print(f"Saved to data/csv/{file_name}.csv")
     print()

@@ -6,10 +6,22 @@ vars:
 tasks:
   convert-to-parquet:
     desc: "Convert the data to Parquet"
+    aliases:
+      - parquet
     cmds:
       - uv run python ./transformation/convert_data_into_parquet.py
 
+  convert-to-csv:
+    desc: "Convert the data to CSV"
+    aliases:
+      - csv
+    cmds:
+      - uv run python ./transformation/convert_data_into_csv.py
+      
   clean:
     desc: "Clean the data"
+    aliases:
+      - c
+      - clear
     cmds:
       - rm -rf data/parquet/*
