@@ -6,9 +6,9 @@ This repository is based on the [Pokemon Database](https://pokemondb.net) websit
 
 The original data is stored in the `data/yaml` directory. It is stored in YAML format for easy readability.
 
-## Transformation
+## Format Conversion
 
-The `transformation` directory contains the code used to transform the original data into the other formats, like Parquet.
+The `scripts/convert` directory contains the code used to convert the original data into the other formats, like Parquet, CSV and JSON.
 
 To run the transformation code, use the following command:
 
@@ -16,6 +16,10 @@ To run the transformation code, use the following command:
 # Install the dependencies
 uv sync
 
-# Run the transformation code
-uv run python ./transformation/convert_data_into_parquet.py
+# Run the data conversion code
+uv run python ./scripts/convert/convert_data_into_parquet.py
+# or
+uv run python ./scripts/convert/convert_data_into_json.py
+# or
+uv run python ./scripts/convert/convert_data_into_csv.py
 ```
